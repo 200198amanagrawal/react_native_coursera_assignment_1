@@ -1,0 +1,17 @@
+{
+  "name": "my-neat-app",
+  "displayName": "my-neat-app",
+  "expo": {
+    "name": "my-neat-app",
+    "slug": "my-neat-app",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

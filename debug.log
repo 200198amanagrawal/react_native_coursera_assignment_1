@@ -1,0 +1,48 @@
+[0514/175608.608:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6e6b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0514/175608.655:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\system32\OLEACC.dll
+[0514/175608.655:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6e6b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0514/175608.655:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\system32\OLEACC.dll
+[0514/175608.886:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6e6b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0514/175608.887:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\system32\OLEACC.dll
+[0514/175608.971:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6e6b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0514/175608.971:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\system32\OLEACC.dll
+[0514/175608.971:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6e6b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0514/175608.971:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\system32\OLEACC.dll
+[0514/175612.126:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6e6b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0514/175612.126:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\system32\OLEACC.dll
+[0514/175642.308:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6e6b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0514/175642.308:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\system32\OLEACC.dll
+[0514/175642.308:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6e6b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0514/175642.308:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\system32\OLEACC.dll
+[0514/175642.315:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6e6b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0514/175642.317:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\system32\OLEACC.dll
+[0514/175642.322:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6e6b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0514/175642.322:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\system32\OLEACC.dll
+[0514/175642.322:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6e6b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0514/175642.322:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\system32\OLEACC.dll
+[0514/175642.565:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6e6b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0514/175642.565:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\system32\OLEACC.dll
+[0514/181000.541:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6e6b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0514/181000.561:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\system32\OLEACC.dll
+[0514/181000.561:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6e6b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0514/181000.561:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\system32\OLEACC.dll
+[0514/181000.636:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6e6b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0514/181000.636:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\system32\OLEACC.dll
+[0514/181000.653:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6e6b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0514/181000.653:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\system32\OLEACC.dll
+[0514/181000.653:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6e6b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0514/181000.654:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\system32\OLEACC.dll
+[0514/181000.811:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6e6b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0514/181000.812:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\system32\OLEACC.dll
+[0514/181030.954:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6e6b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0514/181030.954:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\system32\OLEACC.dll
+[0514/181030.954:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6e6b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0514/181030.954:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\system32\OLEACC.dll
+[0514/181030.958:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6e6b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0514/181030.958:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\system32\OLEACC.dll
+[0514/181030.961:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6e6b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0514/181030.962:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\system32\OLEACC.dll
+[0514/181030.962:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6e6b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0514/181030.962:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\system32\OLEACC.dll
+[0514/181031.101:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6e6b0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0514/181031.101:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\system32\OLEACC.dll
