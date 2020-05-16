@@ -13,7 +13,7 @@ class Main extends Component {
   render() {
  
     return (
-        <Menu dishes={this.state.dishes} />
+        <Menu dishes={this.state.dishes} />//sending the dishes props to the Menu component
     );
   }
 }

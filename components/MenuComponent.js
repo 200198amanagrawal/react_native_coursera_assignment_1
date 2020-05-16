@@ -2,17 +2,17 @@ import React from 'react';
 import { View, FlatList } from 'react-native';
 import { ListItem } from 'react-native-elements';
 
-function Menu(props) {
+function Menu(props) {//the props will take care of the dishes
 
     const renderMenuItem = ({item, index}) => {
 
         return (
-                <ListItem
+                <ListItem//these are the required items in case of ListItem and acts as a iterator
                     key={index}
                     title={item.name}
                     subtitle={item.description}
                     hideChevron={true}
-                    leftAvatar={{ source: require('./images/uthappizza.png')}}
+                    leftAvatar={{ source: require('./images/'+item.name.toLowerCase()+".png")}}
                   />
         );
     };
@@ -20,7 +20,7 @@ function Menu(props) {
     return (
             <FlatList 
                 data={props.dishes}
-                renderItem={renderMenuItem}
+                renderItem={renderMenuItem}//this will take data as item and keyExtractor as index 
                 keyExtractor={item => item.id.toString()}
                 />
     );
