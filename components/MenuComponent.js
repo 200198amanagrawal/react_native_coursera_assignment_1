@@ -7,13 +7,14 @@ function Menu(props) {//the props will take care of the dishes
     const renderMenuItem = ({item, index}) => {
 
         return (
-                <ListItem//these are the required items in case of ListItem and acts as a iterator
-                    key={index}
-                    title={item.name}
-                    subtitle={item.description}
-                    hideChevron={true}
-                    leftAvatar={{ source: require('./images/'+item.name.toLowerCase()+".png")}}
-                  />
+            <ListItem
+            key={index}
+            title={item.name}
+            subtitle={item.description}
+            hideChevron={true}
+            onPress={() => props.onPress(item.id)}
+            leftAvatar={{ source: require('./images/uthappizza.png')}}
+          />
         );
     };
 
